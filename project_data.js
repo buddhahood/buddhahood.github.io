@@ -31,6 +31,12 @@ var project =
         "git": "https://github.com/buddhahood/IT202/tree/master/project5/"
     }, 
     {   
+        "tech": "JavaScript, JSON",
+        "description" : "Links to this page; creates dynamic project list from array.", 
+        "web" : "https://buddhahood.github.io/IT202/project6/",
+        "git": "https://github.com/buddhahood/IT202/tree/master/project6/"
+    }, 
+    {   
         "tech": "PWA, Service Workers, Responsive Design, Material Design Components",
         "description" : "Simple activation of audio file; functional offline.", 
         "web" : "https://buddhahood.github.io/IT202/project7/",
