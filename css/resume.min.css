@@ -6,7 +6,8 @@
  body {
 	font-family: 'Inconsolata';
 	padding-top: 14px;
-	color: #000000; }
+	color: #12FF00;
+}
    
    @media (min-width: 992px) {
 	body {
@@ -113,13 +114,16 @@ h3 {
 	  padding-bottom: 3rem !important; } }
    
    .bg-primary {
-	background-color: rgb(194, 194, 194) !important; }
+	background-color: rgba(0,0,0,1.00) !important;
+}
    
    .text-primary {
 	color: rgb(0, 0, 0) !important; }
    
    a {
-	color: rgb(185, 185, 185); }
+	color: rgba(9,124,0,1.00);
+}
 	a:hover, a:focus, a:active {
-	  color: #5c5c5c; }
+	color: #FFFFFF;
+}
    
