@@ -96,9 +96,13 @@ h3 {
 			display: block; } }
    
    section.resume-section {
-	border-bottom: 1px solid #ffffff;
+	border-bottom: 1px solid #000000;
 	padding-top: 5rem !important;
-	padding-bottom: 5rem !important; }
+	padding-bottom: 5rem !important;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-left-color: #000000;
+}
 	section.resume-section .resume-item .resume-date {
 	  min-width: none; }
    
